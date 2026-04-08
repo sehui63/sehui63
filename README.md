@@ -1,5 +1,3 @@
-# Introduce myself
-
 ## About Me
 - Studying Smart City & Smart Security at Gachon University
 - Aspiring Data Engineer
