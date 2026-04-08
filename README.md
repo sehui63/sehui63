@@ -1,10 +1,10 @@
-# Hi there 👋 I'm Sehui
+# Introduce myself
 
-## 🙋‍♀️ About Me
-- 🎓 Studying Smart City & Smart Security at Gachon University
-- 🎯 Aspiring Data Engineer
-- 📊 Interested in Data Analysis & Engineering
-- 🌱 Currently learning SQL & Data Engineering
+## About Me
+- Studying Smart City & Smart Security at Gachon University
+- Aspiring Data Engineer
+- Interested in Data Analysis & Engineering
+- Currently learning SQL & Data Engineering
 
 ## 🛠️ Tech Stack
 
@@ -23,5 +23,5 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 
-## 📬 Contact
-- 📧 ps2188@gachon.ac.kr
+## Contact
+- ps2188@gachon.ac.kr
